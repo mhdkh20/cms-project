@@ -1,0 +1,5 @@
+{
+  "name": "CMS",
+  "description": "A comprehensive Content Management System frontend built with React, TypeScript, and Tailwind CSS, designed to integrate with a Laravel 12 API.",
+  "requestFramePermissions": []
+}
