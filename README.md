@@ -93,7 +93,7 @@ CMS/
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/cms-project.git
+git clone https://github.com/mhdkh20/cms-project.git
 cd cms-project
 
 🔧 Backend Setup (Laravel)
@@ -144,7 +144,7 @@ http://localhost:5173
 
 Use these credentials for testing:
 
-Email: admin@example.com
+Email: admin@admin.com
 Password: password
 
 🧪 Testing Data
@@ -210,4 +210,4 @@ GitHub: https://github.com/mhdkh20
 
 📝 License
 
-This project is provided for evaluation and educational purposes.
+This project is provided for evaluation .
